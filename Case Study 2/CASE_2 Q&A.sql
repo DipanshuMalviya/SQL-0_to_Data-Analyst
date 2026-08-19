@@ -1,18 +1,17 @@
 -- ============================================================================
 -- CASE STUDY 02: APOLLO HOSPITALS ANALYTICS & HEALTH METRICS
--- MODULE: Class 5 to Class 7 Master Analysis Script
 -- TARGET DBMS: PostgreSQL / Standard SQL
 -- ============================================================================
 
 /*
    ============================================================================
-   MODULE OVERVIEW & COVERED CONCEPTS:
+   TOPIC OVERVIEW & COVERED CONCEPTS:
    ============================================================================
-   CLASS 5: Aggregate Functions (MIN, MAX, SUM, AVG, COUNT),
+   Topic 1: Aggregate Functions (MIN, MAX, SUM, AVG, COUNT),
             COUNT(*) vs COUNT(1) vs COUNT(col) vs COUNT(DISTINCT col),
             Introduction to GROUP BY Clause & Execution Order
-   CLASS 6: Grouping Sets, Multi-Column Grouping & Conditional Aggregation
-   CLASS 7: Advanced Grouping, HAVING Clause (Filtering Post-Aggregation),
+   Topic 2: Grouping Sets, Multi-Column Grouping & Conditional Aggregation
+   Topic 3: Advanced Grouping, HAVING Clause (Filtering Post-Aggregation),
             WHERE vs HAVING Differences, Multi-Condition HAVING Logic
    ============================================================================
 */
